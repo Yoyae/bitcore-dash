@@ -2,7 +2,7 @@
   "name": "bitcore-monoeci",
   "version": "4.1.3",
   "description": "A platform to build Monoeci and blockchain-based applications.",
-  "author": "Monoeci Core Group <dev@monoeci.org>",
+  "author": "Monoeci Core Group <dev@monoeci.io>",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha test/** --recursive",
