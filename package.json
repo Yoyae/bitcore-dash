@@ -82,9 +82,9 @@
     "request": "browser-request"
   },
   "dependencies": {
-    "bitcore-lib-monoeci": "^0.13.20",
-    "bitcore-node-monoeci": "~3.0.4",
-    "insight-api-monoeci": "^0.4.5",
+    "bitcore-lib-monoeci": "^0.15.2",
+    "bitcore-node-monoeci": "~3.0.7",
+    "insight-api-monoeci": "^0.6.0",
     "insight-ui-monoeci": "^0.4.3"
   },
   "license": "MIT",
