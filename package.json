@@ -86,10 +86,10 @@
     "request": "browser-request"
   },
   "dependencies": {
-    "bitcore-lib-monoeci": ">0.15.2",
-    "bitcore-node-monoeci": ">=3.0.7",
-    "insight-api-monoeci": ">=0.6.0",
-    "insight-ui-monoeci": ">=0.4.3"
+    "bitcore-lib-monoeci": "yoyae/bitcore-lib-monoeci",
+    "bitcore-node-monoeci": "yoyae/bitcore-node-monoeci",
+    "insight-api-monoeci": "yoyae/insight-api-monoeci",
+    "insight-ui-monoeci": "yoyae/insight-ui-monoeci"
   },
   "license": "MIT",
   "devDependencies": {
